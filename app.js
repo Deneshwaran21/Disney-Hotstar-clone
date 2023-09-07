@@ -2,27 +2,27 @@ let movies = [
     {
         name: 'loki',
         des: 'Loki, the god of mischief and trickery, takes center stage in this action-packed series. Follow his adventures as he navigates the complexities of Asgardian politics and battles against evil forces threatening the realm',
-        image: 'images/slider 1.PNG'
+        image: 'slider 1.PNG'
     },
     {
         name: 'falcon and the winter soldier',
         des: 'Falcon and the Winter Soldier is a Marvel Comics series that follows the adventures of Sam Wilson (Falcon) and Bucky Barnes (Winter Soldier) as they team up to take down a powerful and dangerous enemy',
-        image: 'images/slider 2.PNG'
+        image: 'slider 2.PNG'
     },
     {
         name: 'wanda vision',
         des:  'WandaVision is a magical and mysterious series that follows the adventures of Wanda Maximoff, a powerful sorceress, and her partner, Vision, a synthezed superhero',
-        image: 'images/slider 3.PNG'
+        image: 'slider 3.PNG'
     },
     {
         name: 'raya and the last dragon',
         des: 'The film follows Raya, a warrior princess who must find the fabled last dragon in order to save her divided home world from a ravenous plague',
-        image: 'images/slider 4.PNG'
+        image: 'slider 4.PNG'
     },
     {
         name: 'luca',
         des: 'Luca is a heartwarming animated adventure about a young sea monster who befriends a human boy on the Italian Riviera',
-        image: 'images/slider 5.PNG'
+        image: 'slider 5.PNG'
     }
 ]
 
