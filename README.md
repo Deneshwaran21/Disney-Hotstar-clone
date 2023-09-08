@@ -1,1 +1,2 @@
 # Disney-Hotstar-clone
+<h2>Disney+ Hotstar is a streaming service that offers a wide variety of movies, TV shows, and original content from Disney, Pixar, Marvel, Star Wars, and National Geographic. With a vast library of content, including classic films and recent releases, Hotstar also offers exclusive Disney+ originals, live sports, and TV shows. The platform is available in multiple languages and can be accessed on various devices, including smartphones, tablets, smart TVs, and set-top boxes.</h2>
